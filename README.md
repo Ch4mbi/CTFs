@@ -13,6 +13,5 @@ Cada carpeta contiene el writeup del reto: escenario, herramientas utilizadas, p
 `Autopsy` `Event Viewer` `TryHackMe` `CMD` `Task Scheduler`
 
 ### Otros repositorios
-- [Proyectos personales](https://github.com/Ch4mbi/Proyectos-personales) - Repositorio donde subo proyectos personales o de la universidad relevantes
 - [Apuntes](https://github.com/Ch4mbi/Apuntes) - Notas y apuntes técnicos personales o de TryHackMe
 
