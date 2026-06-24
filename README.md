@@ -4,7 +4,7 @@ Cada carpeta contiene el writeup del reto: escenario, herramientas utilizadas, p
 
 ## Retos completados
 | Reto | Plataforma | Categoría | Descripción |
-|---|---|---|
+|---|---|---|---|
 | [Disk Analysis & Autopsy](./Disk-analysis-%26-Autopsy%20-THM) | TryHackMe | Forense de disco | En este CTF tuve la función de encontrar lo que le pasó a una máquina con diversos usuarios reconstruyendo los eventos, centrandome en qué pasó, como posiblemente ocurrió y otras preguntas que ayudaron a la investigación |
 | [Investigating Windows](./Investigating%20Windows) | TryHackMe | Forense Windows / IR | Anallicé un dispositivo el cual estaba llevando a cabo conexiones remotas con el atacante con el objetivo de robar la información del usuario. Mi función consistió en detectarlo y responder ciertas preguntas qye se me iban haciendo |
 | [Cyberheroes](./Cyberheroes) | TryHackMe | Web / Misc | CTF sencillo en el que debí de pasar un login en un entorno controlado |
