@@ -5,7 +5,7 @@ Usando: `ubuntu@ip-10-128-181-226:~/Desktop/exercise-files$ tshark -r directory-
 Para revisar una lista de dominios en el .pcap, se puede usar el comando `ubuntu@ip-10-128-181-226:~/Desktop/exercise-files$ tshark -r directory-curiosity.pcap -T fields -e dns.qry.name | uniq -c`
 Siendo estos los resultados:
 
-![[Pasted image 20260716092018.png]]
+![[img tshark/Pasted image 20260716092018.png]]
 
 De los cuales, se puede empezar a descartar o a sospechar de algunos, por ejemplo, el único que llama la atención, ya que parece el menos legitimo a primera vista, es `jx2-bavuong.com`
 ## 2. Total de solicitudes HTTP al dominio malicioso
