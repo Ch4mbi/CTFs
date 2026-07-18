@@ -14,7 +14,7 @@ Cada carpeta contiene el writeup del reto: escenario, herramientas utilizadas, p
 
 ## Herramientas
 
-`Autopsy` `Event Viewer` `TryHackMe` `CMD` `Task Scheduler`
+`Autopsy` `Event Viewer` `TryHackMe` `CMD` `Task Scheduler` `Wireshark` `NetworkMiner` `Brim` `Tshark`
 
 ### Otros repositorios
 - [Apuntes](https://github.com/Ch4mbi/Apuntes) - Notas y apuntes técnicos personales o de TryHackMe
