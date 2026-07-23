@@ -11,6 +11,7 @@ Cada carpeta contiene el writeup del reto: escenario, herramientas utilizadas, p
 | [Summit CTF](https://github.com/Ch4mbi/CTFs/tree/main/Summit%20CTF%20THM%20Writeup) | TryHackMe | Respuestas / Análisis | Simulación más teórica que práctica en la que debí de gestionar diferentes ataques/malware que se me pidió analizar y como bloquearlos de diferentes maneras, con el fierwall, hashes, conexiones, solicitudes DNS, etc. |
 | [Tshark Challenge II](https://github.com/Ch4mbi/CTFs/tree/main/Tshark%20CTF) | TryHackMe | Análisis/Busqueda | Simulación de análisis de un archivo `.pcap` en el que debia identificar diferentes aspectos de las conexiones de dicho archivo de red usando la herramienta tshark |
 | [Warzone 1](https://github.com/Ch4mbi/CTFs/tree/main/Warzone%201%20CTF) | TryHackMe | Análisis multiple | Laboratorio en el que, usando Wireshark, Brim y NetworkMiner, debí de analizar una serie de conexiones sospechisas C2 |
+| [Shadow Trace](https://github.com/Ch4mbi/CTFs/blob/main/Shadow%20trace%20CTF/Shadow%20Trace.md) | TryHackMe | Análisis estático y decodificación | Laboratorio en el que debí de analizar un ejecutable sospechoso sin ejecutarlo (estáticamente) con diferentes herramientas |
 
 ## Herramientas
 
