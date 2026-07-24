@@ -13,6 +13,7 @@ Cada carpeta contiene el writeup del reto: escenario, herramientas utilizadas, p
 | [Warzone 1](https://github.com/Ch4mbi/CTFs/blob/main/Warzone%201%20CTF/Warzone%201%20CTF%20TryHackMe.md) | TryHackMe | Análisis multiple | Laboratorio en el que, usando Wireshark, Brim y NetworkMiner, debí de analizar una serie de conexiones sospechisas C2 |
 | [Shadow Trace](https://github.com/Ch4mbi/CTFs/blob/main/Shadow%20trace%20CTF/Shadow%20Trace.md) | TryHackMe | Análisis estático y decodificación | Laboratorio en el que debí de analizar un ejecutable sospechoso sin ejecutarlo (estáticamente) con diferentes herramientas |
 | [Invite only CTF](https://github.com/Ch4mbi/CTFs/blob/main/Invite%20Only%20CTF/Invite%20only.md) | TryHackMe | Análisis de archivos (hashes) | Ejercicio en el que me suministraban una ip y un hash y debí de descifrar fuentes de dicho malware, ip maliciosa, y buscar reportes gracias a virustotal |
+| [ItsyBitsy](https://github.com/Ch4mbi/CTFs/blob/main/ItsyBitsy%20CTF/ItsyBitsy.md) | TryHackMe | Analisis de eventos | Entorno en el que, usando Elastic, debí de localizar y analizar un evento de un host comprometido y un servidor atacante C2 |
 
 ## Herramientas
 
