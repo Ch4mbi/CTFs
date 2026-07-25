@@ -1,3 +1,7 @@
+# Shadow Trace CTF
+
+https://tryhackme.com/room/warzoneone
+
 En este laboratorio, se me informa que:
 - El archivo del malware está localizado en `C:\Users\DFIRUser\Desktop\windows-update.exe`
 - Y las herramientas a usar están en la carpeta: `C:\Users\DFIRUser\DFIR Tools`, en la cual, hay varias herramientas/carpetas de las mismas (por ejemplo de disk analysis, no es una herramienta, es una explicación de la misma, en este caso, almacena FTK imager, mientras que HxD si que es una herramienta):
