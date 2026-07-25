@@ -1,3 +1,7 @@
+# Invite Only CTF
+
+https://tryhackme.com/room/invite-only
+
 Se puede usar la herramienta que aporta el laboratorio de tryhackme, pero, en teoría, funciona de manera similar a virustotal por ejemplo, plataforma la cual puede servir para dar más realismo al entorno también.
 La room me aporta:
 - IP: `101.99.76.120`
